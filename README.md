@@ -1,2 +1,3 @@
-# pennyworthFaq
-Pennyworth FAQ
+# Pennyworth FAQ
+
+- [How to change default currency](ChangeCurrency.md)
